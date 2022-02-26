@@ -19,7 +19,7 @@ gem 'puma', '~> 3.11'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'v
 
-gem 'nokogiri', '~> 1.10', '>= 1.10.3'
+gem 'nokogiri', '~> 1.13'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
